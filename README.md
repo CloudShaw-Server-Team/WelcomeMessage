@@ -1,5 +1,6 @@
 # WelcomeMessage
 中文 | [English](README_EN.md)
+
 一个基于NWPluginAPI的插件，当玩家进入服务器时会显示欢迎消息。
 ## 功能
 - 显示欢迎消息
