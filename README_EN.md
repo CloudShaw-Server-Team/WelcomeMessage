@@ -1,5 +1,6 @@
 # WelcomeMessage
 [中文](README.md) | English
+
 A plugin based on NWPluginAPI that displays welcome messages when players enter the server.
 ## Function
 - Display Welcome Message
